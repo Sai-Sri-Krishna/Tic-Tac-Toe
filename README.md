@@ -21,7 +21,7 @@ A modern, responsive take on the classic Tic Tac Toe game. Built with pure **Jav
 
 ## 🔗 Live Demo
 Don't just look at the code—play the game here:  
-[**Launch Tic Tac Toe Pro**](https://sai-sri-krishna.github.io/X/)
+[**Launch Tic Tac Toe Pro**](https://sai-sri-krishna.github.io/Tic-Tac-Toe/)
 
 ---
 
